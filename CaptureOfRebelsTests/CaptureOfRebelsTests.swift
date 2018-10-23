@@ -2,12 +2,12 @@
 //  CaptureOfRebelsTests.swift
 //  CaptureOfRebelsTests
 //
-//  Created by Javier Sánchez Daza on 18/10/2018.
+//  Created by Javier Sánchez Daza on 22/10/2018.
 //  Copyright © 2018 Javier Sánchez Daza. All rights reserved.
 //
 
 import XCTest
-@testable import CaptureOfRebels
+
 
 class CaptureOfRebelsTests: XCTestCase {
 
